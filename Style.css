@@ -1,0 +1,75 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+nav {
+    background-color: rgb(12, 7, 33);
+}
+
+.nav-link {
+    color: white;
+    justify-content: right;
+
+}
+footer {
+    color: white;
+    padding-top: 20px;
+    font-size: 1rem;
+}
+
+@media (max-width: 760px) {
+
+    h2 {
+        font-size: 1.4rem;
+    }
+
+    p {
+        padding-top: 5px;
+        font-size: 0.9rem;
+    }
+}
+
+@media (max-width: 600px) {
+
+    h2 {
+        font-size: 1.2rem;
+    }
+
+    p {
+        padding-top: 5px;
+        font-size: 0.9rem;
+    }
+}
+
+
+.carousel-inner{
+    border-radius: 30px;
+}
+.col-10{
+    margin: auto;
+}
+#noticias{
+    text-align: center;
+    margin-bottom: 10%; 
+}
+img{
+    border-radius: 30px;
+}
+
+#pagina{
+    max-width: 800px;
+    max-height: 500px;
+}
+.col-8{
+    margin: 10%;
+    border-radius: 30px;
+    margin-bottom: 0px;
+    max-width: 600px;
+    max-height: 400px;
+}
+.col-12{
+    margin: auto;
+}
+*{
+    color: white;
+}
+
