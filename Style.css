@@ -42,7 +42,7 @@ footer {
 
 
 .carousel-inner{
-    border-radius: 30px;
+    border-radius: 20px;
 }
 .col-10{
     margin: auto;
@@ -52,7 +52,7 @@ footer {
     margin-bottom: 10%; 
 }
 img{
-    border-radius: 30px;
+    border-radius: 20px;
 }
 
 #pagina{
@@ -61,7 +61,7 @@ img{
 }
 .col-8{
     margin: 10%;
-    border-radius: 30px;
+    border-radius: 20px;
     margin-bottom: 0px;
     max-width: 600px;
     max-height: 400px;
@@ -71,5 +71,7 @@ img{
 }
 *{
     color: white;
+    font-family: Arial;
+    font-size: 16px;
 }
 
